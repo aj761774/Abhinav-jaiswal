@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/Abhinav-jaiswal/static/js/main.2a3d2f45.chunk.js",
-    "main.js.map": "/Abhinav-jaiswal/static/js/main.2a3d2f45.chunk.js.map",
+    "main.js": "/Abhinav-jaiswal/static/js/main.8793cc89.chunk.js",
+    "main.js.map": "/Abhinav-jaiswal/static/js/main.8793cc89.chunk.js.map",
     "runtime-main.js": "/Abhinav-jaiswal/static/js/runtime-main.bd992b25.js",
     "runtime-main.js.map": "/Abhinav-jaiswal/static/js/runtime-main.bd992b25.js.map",
     "static/css/2.3d270f21.chunk.css": "/Abhinav-jaiswal/static/css/2.3d270f21.chunk.css",
     "static/js/2.e39da719.chunk.js": "/Abhinav-jaiswal/static/js/2.e39da719.chunk.js",
     "static/js/2.e39da719.chunk.js.map": "/Abhinav-jaiswal/static/js/2.e39da719.chunk.js.map",
     "index.html": "/Abhinav-jaiswal/index.html",
-    "precache-manifest.8290d293d904e00c1e83721d6a3672cd.js": "/Abhinav-jaiswal/precache-manifest.8290d293d904e00c1e83721d6a3672cd.js",
+    "precache-manifest.15af9adbd6b4e7a113bf782b7acda9a3.js": "/Abhinav-jaiswal/precache-manifest.15af9adbd6b4e7a113bf782b7acda9a3.js",
     "service-worker.js": "/Abhinav-jaiswal/service-worker.js",
     "static/css/2.3d270f21.chunk.css.map": "/Abhinav-jaiswal/static/css/2.3d270f21.chunk.css.map",
     "static/js/2.e39da719.chunk.js.LICENSE.txt": "/Abhinav-jaiswal/static/js/2.e39da719.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.bd992b25.js",
     "static/css/2.3d270f21.chunk.css",
     "static/js/2.e39da719.chunk.js",
-    "static/js/main.2a3d2f45.chunk.js"
+    "static/js/main.8793cc89.chunk.js"
   ]
 }

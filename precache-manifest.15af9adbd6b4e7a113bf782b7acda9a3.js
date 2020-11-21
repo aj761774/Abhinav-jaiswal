@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e05846967569b8cc5d7bdda105f39e74",
+    "revision": "909fad7928ec182359358ef90af828e6",
     "url": "/Abhinav-jaiswal/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Abhinav-jaiswal/static/js/2.e39da719.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8f551bdf4ad3eccd1912",
-    "url": "/Abhinav-jaiswal/static/js/main.2a3d2f45.chunk.js"
+    "revision": "bd42e01d05593695a51a",
+    "url": "/Abhinav-jaiswal/static/js/main.8793cc89.chunk.js"
   },
   {
     "revision": "82061060165871534406",
