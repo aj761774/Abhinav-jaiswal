@@ -341,15 +341,14 @@ cursor: pointer;
   margin-bottom:1rem ;
   margin-right: 1rem;
   margin-top: 1rem;
+  border: 1px solid black;
   box-shadow:4px 4px 5px rgba(0,0,0,0.2) , -2px -2px 5px rgba(0,0,0,0.2) ;
 }
 
 #projectCards .project:hover{
     transform: scale(1.1);
 }
-#projectCards .project > p{
-    /* padding-bottom: 1rem; */
-}
+
 
 /*skill section */
 
@@ -444,7 +443,7 @@ footer a{
 }
 @media screen and (max-width:790px){
     #aboutText{
-        width: 70%;
+        width: 80%;
         margin-left: 0;
     }
 }
