@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/Abhinav-jaiswal/static/js/main.989672fa.chunk.js",
+    "main.js.map": "/Abhinav-jaiswal/static/js/main.989672fa.chunk.js.map",
+    "runtime-main.js": "/Abhinav-jaiswal/static/js/runtime-main.bd992b25.js",
+    "runtime-main.js.map": "/Abhinav-jaiswal/static/js/runtime-main.bd992b25.js.map",
+    "static/css/2.3d270f21.chunk.css": "/Abhinav-jaiswal/static/css/2.3d270f21.chunk.css",
+    "static/js/2.e39da719.chunk.js": "/Abhinav-jaiswal/static/js/2.e39da719.chunk.js",
+    "static/js/2.e39da719.chunk.js.map": "/Abhinav-jaiswal/static/js/2.e39da719.chunk.js.map",
+    "index.html": "/Abhinav-jaiswal/index.html",
+    "precache-manifest.0561ec868096ebd6d45f3f79aae7623f.js": "/Abhinav-jaiswal/precache-manifest.0561ec868096ebd6d45f3f79aae7623f.js",
+    "service-worker.js": "/Abhinav-jaiswal/service-worker.js",
+    "static/css/2.3d270f21.chunk.css.map": "/Abhinav-jaiswal/static/css/2.3d270f21.chunk.css.map",
+    "static/js/2.e39da719.chunk.js.LICENSE.txt": "/Abhinav-jaiswal/static/js/2.e39da719.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/Abhinav-jaiswal/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd992b25.js",
+    "static/css/2.3d270f21.chunk.css",
+    "static/js/2.e39da719.chunk.js",
+    "static/js/main.989672fa.chunk.js"
+  ]
+}
